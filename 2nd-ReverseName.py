@@ -12,7 +12,7 @@ print(x,y)
 
 '''
 
-INOUT : Piyush Goyal
+INPUT : Piyush Goyal
 OUTPUT : Goyal Piyush
 
 '''
